@@ -15,4 +15,4 @@ const getWeather = async() => {
     cnt.innerHTML=result
 }
 
-;ofsghvj ;vh8aerrp9b sepr08tyrw0pvWpw9t8yvyrwpw0tyuw ewpr0t8gye erwp0gtyhewfpv8 aewo9ryhgeqwv sdo9fgyewH0 EWROP97FYV FRSGRW89YGVADO9 fsgouhdwf  
+;ofsghvj ;vh8aerrp9b sepr08tyrw0pvWpw9t8yvyrwpw0tyuw ewpr0t8gye erwp0gtyhewfpv8 aewo9ryhgeqwv sdo9fgyewH0 EWROP97FY
